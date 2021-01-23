@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel1.jpg",
+    "alt": "tin tan buddah",
+    "name": "tian tan budah",
+    "button": "view destinantion"
+  },
+  {
+    "img": "../assets/images/travel2.jpg",
+    "alt": "tin tan buddah",
+    "name": "tian tan budah",
+    "button": "view destinantion"
+  },
+  {
+    "img": "../assets/images/travel3.jpg",
+    "alt": "tin tan buddah",
+    "name": "tian tan budah",
+    "button": "view destinantion"
+  },
+  {
+    "img": "../assets/images/travel4.jpg",
+    "alt": "tin tan buddah",
+    "name": "tian tan budah",
+    "button": "view destinantion"
+  }
+]
