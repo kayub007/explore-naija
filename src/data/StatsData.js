@@ -6,7 +6,7 @@ import {FaMoneyCheck} from 'react-icons/fa'
 export const StatsData = [
   {
     icon: (<GiEarthAmerica css={`color: #047bf1;`} />),
-    title: "over 100 Destination",
+    title: "over 500 Destination",
     desc: "Travel to over 100 unique places",
   },
   {
